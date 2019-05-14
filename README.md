@@ -1,14 +1,9 @@
-# Project 3
+# Intermidate Web-Design Final Project 
 
-See the course website for Project 4's requirements: [Project 4](https://github.coecis.cornell.edu/info2300-sp2019/info2300-sp2019-website/blob/master/assignments/project-4/project-4.md) ([PDF](https://github.coecis.cornell.edu/info2300-sp2019/info2300-sp2019-website/blob/master/assignments/project-4/project-4.pdf)).
+This was my intermediate web-design project where we had to create a dynamic website and is supported by a database. We had to usse SQL quary to retrieve the content and PHP to dynamically display it. 
 
-# Submission Instructions
+Front-End 
+Written in HTML and CSS5
 
-See the respective **submit-_milestone_.md** file for each submission.
-
-| Submission  | Instructions                       |
-| ----------- | ---------------------------------- |
-| Milestone 1 | [submit-m1.md](submit-m1.md)       |
-| Milestone 2 | [submit-m2.md](submit-m2.md)       |
-| Milestone 3 | [submit-m3.md](submit-m3.md)       |
-| Final       | [submit-FINAL.md](submit-FINAL.md) |
+Back-End 
+Written in PHP
